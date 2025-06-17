@@ -1,0 +1,42 @@
+{
+  "tripName": "European Adventure 2025",
+  "traveler": {
+    "name": "Justin Bailey",
+    "contact": {
+      "email": "justin.bailey@example.com",
+      "phone": "+1-555-123-4567"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Paris",
+      "arrivalDate": "2025-07-10",
+      "departureDate": "2025-07-14",
+      "activities": [
+        {
+          "title": "Eiffel Tower Visit",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Seine River Cruise",
+          "time": "6:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Rome",
+      "arrivalDate": "2025-07-15",
+      "departureDate": "2025-07-19",
+      "activities": [
+        {
+          "title": "Colosseum Tour",
+          "time": "9:30 AM"
+        },
+        {
+          "title": "Vatican Museums",
+          "time": "2:00 PM"
+        }
+      ]
+    }
+  ]
+}
