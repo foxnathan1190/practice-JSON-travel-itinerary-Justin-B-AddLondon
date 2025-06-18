@@ -12,6 +12,10 @@
       "location": "Paris",
       "arrivalDate": "2025-07-10",
       "departureDate": "2025-07-14",
+      "Transportation": {
+            "Mode": "Flight",
+            "Cost": 450.00
+        },
       "activities": [
         {
           "title": "Eiffel Tower Visit",
@@ -27,6 +31,10 @@
       "location": "Rome",
       "arrivalDate": "2025-07-15",
       "departureDate": "2025-07-19",
+      "Transportation": {
+            "Mode": "Flight",
+            "Cost": 350.00
+        },
       "activities": [
         {
           "title": "Colosseum Tour",
@@ -37,6 +45,27 @@
           "time": "2:00 PM"
         }
       ]
+    },
+    {
+      "Location": "London",
+      "Details": {
+        "Arrival Date": "2026-07-20",
+        "Departure Date": "2026-06-24",
+        "Transportation": {
+            "Mode": "Flight",
+            "Cost": 250.00
+        },
+        "Activities": [
+          {
+            "Title": "Tour Buchingham Palace",
+            "Time": "10:00AM"
+          },
+          {
+            "Title": "See show in West End",
+            "Time": "7:30PM"
+          }
+        ]
+      }
     }
   ]
 }
